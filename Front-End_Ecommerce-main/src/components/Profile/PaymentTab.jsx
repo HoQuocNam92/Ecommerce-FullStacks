@@ -1,0 +1,29 @@
+import { CreditCard } from 'lucide-react'
+import React from 'react'
+
+const PaymentTab = () => {
+    return (
+        <main className="flex-1">
+            <div className="bg-white shadow-sm rounded-lg border border-gray-200">
+                <div className="px-6 py-4 border-b border-gray-200">
+                    <div className="flex items-center space-x-3">
+                        <CreditCard className="w-6 h-6 text-red-700" />
+                        <h2 className="text-xl font-semibold text-gray-900">Phương thức thanh toán</h2>
+                    </div>
+                </div>
+                <div className="p-6">
+                    <div className="text-center py-12">
+                        <CreditCard className="w-16 h-16 text-gray-300 mx-auto mb-4" />
+                        <h3 className="text-lg font-medium text-gray-900 mb-2">Chưa có phương thức thanh toán</h3>
+                        <p className="text-gray-500 mb-6">Thêm phương thức thanh toán để thanh toán nhanh hơn</p>
+                        <button className="bg-red-700 hover:bg-red-600 text-white px-6 py-3 rounded-lg font-medium transition-colors">
+                            Thêm phương thức thanh toán
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </main>
+    )
+}
+
+export default PaymentTab

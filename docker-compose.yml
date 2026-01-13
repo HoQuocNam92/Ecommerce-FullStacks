@@ -1,0 +1,40 @@
+services:
+  backend:
+    build:
+      context: ./Back-End_Ecommerce-main
+    container_name: be-app
+    ports:
+      - "8080:8080"
+    env_file:
+      - .env
+    depends_on:
+      - mssql
+
+  frontend:
+    build:
+      context: ./Front-End_Ecommerce-main
+    container_name: fe-app
+    ports:
+      - "5173:5173"
+    depends_on:
+      - backend
+
+  mssql:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    container_name: mssql
+    ports:
+      - "1433:1433"
+    environment:
+      ACCEPT_EULA: "Y"
+      SA_PASSWORD: Admin@123 # hardcode luôn, backend cũng dùng DB_PASSWORD=Admin@123
+    volumes:
+      - mssql_data:/var/opt/mssql
+      - ./db:/backup
+    command: >
+      /bin/bash -c "/opt/mssql/bin/sqlservr &
+      sleep 20 &&
+      /opt/mssql-tools/bin/sqlcmd -S localhost -U sa -P Admin@123 -Q \"RESTORE DATABASE [Ecommerce] FROM DISK='/backup/Ecommerce.bak' WITH REPLACE\" &&
+      fg 1"
+
+volumes:
+  mssql_data:

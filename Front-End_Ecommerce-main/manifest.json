@@ -1,0 +1,9 @@
+{
+    "name": "Tên ứng dụng",
+    "short_name": "Tên ngắn",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "description": "Mô tả app",
+    "icons": []
+}

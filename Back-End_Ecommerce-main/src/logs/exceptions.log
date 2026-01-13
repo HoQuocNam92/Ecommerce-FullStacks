@@ -1,0 +1,120 @@
+ 2026-01-01 19:18:58:1858 [31merror[39m: [31muncaughtException: path is not defined[39m
+[31mReferenceError: path is not defined[39m
+[31m    at file:///D:/workspaces/Projects/Ecommerce/Back-End_Ecommerce-main/src/shared/utils/logger.js:3:16[39m
+[31m    at ModuleJob.run (node:internal/modules/esm/module_job:413:25)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[31m    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:654:26)[39m
+[31m    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:101:5)[39m
+2026-01-01 19:19:04:194 [31merror[39m: [31muncaughtException: path is not defined[39m
+[31mReferenceError: path is not defined[39m
+[31m    at file:///D:/workspaces/Projects/Ecommerce/Back-End_Ecommerce-main/src/shared/utils/logger.js:3:16[39m
+[31m    at ModuleJob.run (node:internal/modules/esm/module_job:413:25)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[31m    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:654:26)[39m
+[31m    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:101:5)[39m
+2026-01-02 22:02:00:20 [31merror[39m: [31muncaughtException: argument handler must be a function[39m
+[31mTypeError: argument handler must be a function[39m
+[31m    at Route.<computed> [as post] (D:\workspaces\Projects\Ecommerce\Back-End_Ecommerce-main\node_modules\router\lib\route.js:228:15)[39m
+[31m    at Router.<computed> [as post] (D:\workspaces\Projects\Ecommerce\Back-End_Ecommerce-main\node_modules\router\index.js:448:19)[39m
+[31m    at file:///D:/workspaces/Projects/Ecommerce/Back-End_Ecommerce-main/src/modules/dashboard/roles/role.route.js:7:7[39m
+[31m    at ModuleJob.run (node:internal/modules/esm/module_job:413:25)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[31m    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:654:26)[39m
+[31m    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:101:5)[39m
+2026-01-02 22:02:24:224 [31merror[39m: [31muncaughtException: argument handler must be a function[39m
+[31mTypeError: argument handler must be a function[39m
+[31m    at Route.<computed> [as post] (D:\workspaces\Projects\Ecommerce\Back-End_Ecommerce-main\node_modules\router\lib\route.js:228:15)[39m
+[31m    at Router.<computed> [as post] (D:\workspaces\Projects\Ecommerce\Back-End_Ecommerce-main\node_modules\router\index.js:448:19)[39m
+[31m    at file:///D:/workspaces/Projects/Ecommerce/Back-End_Ecommerce-main/src/modules/dashboard/roles/role.route.js:7:7[39m
+[31m    at ModuleJob.run (node:internal/modules/esm/module_job:413:25)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[31m    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:654:26)[39m
+[31m    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:101:5)[39m
+2026-01-02 22:03:59:359 [31merror[39m: [31muncaughtException: argument handler must be a function[39m
+[31mTypeError: argument handler must be a function[39m
+[31m    at Route.<computed> [as post] (D:\workspaces\Projects\Ecommerce\Back-End_Ecommerce-main\node_modules\router\lib\route.js:228:15)[39m
+[31m    at Router.<computed> [as post] (D:\workspaces\Projects\Ecommerce\Back-End_Ecommerce-main\node_modules\router\index.js:448:19)[39m
+[31m    at file:///D:/workspaces/Projects/Ecommerce/Back-End_Ecommerce-main/src/modules/dashboard/roles/role.route.js:7:7[39m
+[31m    at ModuleJob.run (node:internal/modules/esm/module_job:413:25)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[31m    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:654:26)[39m
+[31m    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:101:5)[39m
+2026-01-02 22:04:45:445 [31merror[39m: [31muncaughtException: argument handler must be a function[39m
+[31mTypeError: argument handler must be a function[39m
+[31m    at Route.<computed> [as post] (D:\workspaces\Projects\Ecommerce\Back-End_Ecommerce-main\node_modules\router\lib\route.js:228:15)[39m
+[31m    at Router.<computed> [as post] (D:\workspaces\Projects\Ecommerce\Back-End_Ecommerce-main\node_modules\router\index.js:448:19)[39m
+[31m    at file:///D:/workspaces/Projects/Ecommerce/Back-End_Ecommerce-main/src/modules/dashboard/roles/role.route.js:7:7[39m
+[31m    at ModuleJob.run (node:internal/modules/esm/module_job:413:25)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[31m    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:654:26)[39m
+[31m    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:101:5)[39m
+2026-01-02 22:06:40:640 [31merror[39m: [31muncaughtException: router is not defined[39m
+[31mReferenceError: router is not defined[39m
+[31m    at file:///D:/workspaces/Projects/Ecommerce/Back-End_Ecommerce-main/src/modules/dashboard/roles/role.route.js:9:1[39m
+[31m    at ModuleJob.run (node:internal/modules/esm/module_job:413:25)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[31m    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:654:26)[39m
+[31m    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:101:5)[39m
+2026-01-02 22:06:47:647 [31merror[39m: [31muncaughtException: router is not defined[39m
+[31mReferenceError: router is not defined[39m
+[31m    at file:///D:/workspaces/Projects/Ecommerce/Back-End_Ecommerce-main/src/modules/dashboard/roles/role.route.js:9:1[39m
+[31m    at ModuleJob.run (node:internal/modules/esm/module_job:413:25)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[31m    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:654:26)[39m
+[31m    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:101:5)[39m
+2026-01-03 09:29:01:291 [31merror[39m: [31muncaughtException: express.routerr is not a function[39m
+[31mTypeError: express.routerr is not a function[39m
+[31m    at file:///D:/workspaces/Projects/Ecommerce/Back-End_Ecommerce-main/src/modules/dashboard/roles/role.route.js:4:24[39m
+[31m    at ModuleJob.run (node:internal/modules/esm/module_job:413:25)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[31m    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:654:26)[39m
+[31m    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:101:5)[39m
+2026-01-03 09:29:14:2914 [31merror[39m: [31muncaughtException: argument handler is required[39m
+[31mTypeError: argument handler is required[39m
+[31m    at router.use (D:\workspaces\Projects\Ecommerce\Back-End_Ecommerce-main\node_modules\router\index.js:385:11)[39m
+[31m    at file:///D:/workspaces/Projects/Ecommerce/Back-End_Ecommerce-main/src/modules/wishlist/wishlist.route.js:6:8[39m
+[31m    at ModuleJob.run (node:internal/modules/esm/module_job:413:25)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[31m    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:654:26)[39m
+[31m    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:101:5)[39m
+2026-01-06 16:25:32:2532 [31merror[39m: [31muncaughtException: argument handler must be a function[39m
+[31mTypeError: argument handler must be a function[39m
+[31m    at Route.<computed> [as post] (D:\workspaces\Projects\Ecommerce\Back-End_Ecommerce-main\node_modules\router\lib\route.js:228:15)[39m
+[31m    at Router.<computed> [as post] (D:\workspaces\Projects\Ecommerce\Back-End_Ecommerce-main\node_modules\router\index.js:448:19)[39m
+[31m    at file:///D:/workspaces/Projects/Ecommerce/Back-End_Ecommerce-main/src/modules/coupon/coupon.route.js:8:8[39m
+[31m    at ModuleJob.run (node:internal/modules/esm/module_job:413:25)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[31m    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:654:26)[39m
+[31m    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:101:5)[39m
+2026-01-11 12:00:17:017 [31merror[39m: [31muncaughtException: argument handler must be a function[39m
+[31mTypeError: argument handler must be a function[39m
+[31m    at Route.<computed> [as get] (D:\workspaces\Projects\Ecommerce\Back-End_Ecommerce-main\node_modules\router\lib\route.js:228:15)[39m
+[31m    at Router.<computed> [as get] (D:\workspaces\Projects\Ecommerce\Back-End_Ecommerce-main\node_modules\router\index.js:448:19)[39m
+[31m    at file:///D:/workspaces/Projects/Ecommerce/Back-End_Ecommerce-main/src/modules/order/coupon/orderCoupon.route.js:6:8[39m
+[31m    at ModuleJob.run (node:internal/modules/esm/module_job:413:25)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[31m    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:654:26)[39m
+[31m    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:101:5)[39m
+2026-01-11 12:00:19:019 [31merror[39m: [31muncaughtException: argument handler must be a function[39m
+[31mTypeError: argument handler must be a function[39m
+[31m    at Route.<computed> [as get] (D:\workspaces\Projects\Ecommerce\Back-End_Ecommerce-main\node_modules\router\lib\route.js:228:15)[39m
+[31m    at Router.<computed> [as get] (D:\workspaces\Projects\Ecommerce\Back-End_Ecommerce-main\node_modules\router\index.js:448:19)[39m
+[31m    at file:///D:/workspaces/Projects/Ecommerce/Back-End_Ecommerce-main/src/modules/order/coupon/orderCoupon.route.js:5:8[39m
+[31m    at ModuleJob.run (node:internal/modules/esm/module_job:413:25)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[31m    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:654:26)[39m
+[31m    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:101:5)[39m
+2026-01-11 17:06:38:638 [31merror[39m: [31muncaughtException: ShipperRoute is not defined[39m
+[31mReferenceError: ShipperRoute is not defined[39m
+[31m    at file:///D:/workspaces/Projects/Ecommerce/Back-End_Ecommerce-main/src/modules/index.js:51:24[39m
+[31m    at ModuleJob.run (node:internal/modules/esm/module_job:413:25)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[31m    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:654:26)[39m
+[31m    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:101:5)[39m
+2026-01-11 17:06:48:648 [31merror[39m: [31muncaughtException: ShipperRoute is not defined[39m
+[31mReferenceError: ShipperRoute is not defined[39m
+[31m    at file:///D:/workspaces/Projects/Ecommerce/Back-End_Ecommerce-main/src/modules/index.js:51:24[39m
+[31m    at ModuleJob.run (node:internal/modules/esm/module_job:413:25)[39m
+[31m    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)[39m
+[31m    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:654:26)[39m
+[31m    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:101:5)[39m
