@@ -66,8 +66,8 @@ REFRESH_TOKEN=your_refresh_token
 docker-compose up --build
 
 Sau khi chạy:
-- Frontend: http://localhost:3000
-- Backend: http://localhost:4000
+- Frontend: http://localhost:5173
+- Backend: http://localhost:8080
 - SQL Server: localhost:1433
  
 
