@@ -46,12 +46,10 @@ DevOps
 
 ## Hướng dẫn chạy project
 
-1. Clone repository:
-git clone https://github.com/HoQuocNam92/Ecommerce-FullStacks.git
-cd Ecommerce-FullStacks
-
-2. Tạo file .env cho Backend trong thư mục Back-End_Ecommerce-main:
-
+1. git clone https://github.com/HoQuocNam92/Ecommerce-FullStacks.git
+2. cd Ecommerce-FullStacks
+3. Tạo file .env cho Backend trong thư mục Back-End_Ecommerce-main
+4. Dán những cái này vào file env :
 PORT=8080
 DB_HOST=mssql
 DB_USER=sa
