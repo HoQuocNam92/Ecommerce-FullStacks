@@ -60,7 +60,7 @@ DB_PORT=1433
 ACCESS_TOKEN=your_access_token
 REFRESH_TOKEN=your_refresh_token
 
-3. Chạy toàn bộ hệ thống bằng Docker:
+5. Chạy toàn bộ hệ thống bằng Docker:
 docker-compose up --build
 
 Sau khi chạy:
